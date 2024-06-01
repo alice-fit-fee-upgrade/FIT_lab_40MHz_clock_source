@@ -84,6 +84,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUJRNDFR
 
+[Document3]
+DocumentPath=PANEL-LHC_Clock.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CHFWOODT
+
 [ProjectVariant1]
 UniqueId=3cdb0869-7617-4c82-b49b-282445fe9176
 Description=Default
