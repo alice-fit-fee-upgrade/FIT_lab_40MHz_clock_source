@@ -101,6 +101,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHFWOODT
 
+[Document4]
+DocumentPath=LHC_Clock.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=3cdb0869-7617-4c82-b49b-282445fe9176
 Description=Default
@@ -114,6 +131,90 @@ Variation4=Designator=R?|UniqueId=\FSRCIQCL|Kind=1|AlternatePart=
 Variation5=Designator=R?|UniqueId=\HBLCZGGE|Kind=1|AlternatePart=
 Variation6=Designator=C34|UniqueId=\PPGMFANW|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LHC_Clock\BOM\Bill of Materials-LHC_Clock(Default).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LHC_Clock-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for LHC_Clock\NC Drill\LHC_Clock-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LHC_Clock-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for LHC_Clock\NC Drill\LHC_Clock-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LHC_Clock.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for LHC_Clock\NC Drill\LHC_Clock.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GM
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LHC_Clock\Gerber\LHC_Clock.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LHC_Clock.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for LHC_Clock\NC Drill\LHC_Clock.LDP
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
